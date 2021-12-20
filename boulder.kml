@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Placemark>
+  <name>Boulder</name>
+  <description>Boulder is a town located near Rocky Mountain.</description>
+  <Point>
+    <coordinates>-105.258475,40.022345,0</coordinates>
+  </Point>
+</Placemark>
+</kml>
